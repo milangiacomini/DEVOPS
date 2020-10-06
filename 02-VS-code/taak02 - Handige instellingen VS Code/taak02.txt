@@ -1,0 +1,5 @@
+Basic Layout
+Side by side editing
+Minimap
+Explorer
+Open Editors
